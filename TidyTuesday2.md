@@ -123,7 +123,7 @@ ggplot(data=georgia_pop_gather, aes(x=Year, y=Percent)) +
 
 Comparison to what we were trying to achieve! 
 
-![Plot 1](C:/Users/medsleea/OneDrive - University of Leeds/R Refresher/01plot.jpg)
+![Plot 1](https://github.com/simonl11/tidy_tuesday/blob/master/TidyTuesday2_files/figure-html/01plot.jpg)
 
 ## Challenge 02- Conjugal Condition
 
@@ -251,7 +251,7 @@ ggplot(data =conjugal_gather,
 
 Comparison to what we were trying to achieve! 
 
-![Plot 2](C:/Users/medsleea/OneDrive - University of Leeds/R Refresher/02plot.jpg)
+![Plot 2](https://github.com/simonl11/tidy_tuesday/blob/master/TidyTuesday2_files/figure-html/02plot.jpg)
 
 
 ## Challenge 03- Occupations of Black/ African-American and Whites in Georgia
@@ -341,7 +341,7 @@ ggplot(data =occupation,
 
 Comparison to what we were trying to achieve! 
 
-![Plot 3](C:/Users/medsleea/OneDrive - University of Leeds/R Refresher/03plot.jpg)
+![Plot 3](https://github.com/simonl11/tidy_tuesday/blob/master/TidyTuesday2_files/figure-html/03plot.jpg)
 
 ## Challenge 04- Proportion of Freeman and Slaves Among American Black Population
 
@@ -438,7 +438,7 @@ ggplot(data=freed,
 
 Comparison to what we were trying to achieve! 
 
-![Plot 4](C:/Users/medsleea/OneDrive - University of Leeds/R Refresher/04plot.jpg)
+![Plot 4](https://github.com/simonl11/tidy_tuesday/blob/master/TidyTuesday2_files/figure-html/04plot.jpg)
 
 ## Challenge 05- Income and Expenditure of 150 Black Families in Atlanta, GA, USA
 
@@ -544,7 +544,7 @@ ggplot(data =income_gather,
 
 Comparison to what we were trying to achieve! 
 
-![Plot 5](C:/Users/medsleea/OneDrive - University of Leeds/R Refresher/05plot.jpg)
+![Plot 5](https://github.com/simonl11/tidy_tuesday/blob/master/TidyTuesday2_files/figure-html/01plot.jpg)
 
 
 
