@@ -119,7 +119,7 @@ ggplot(data=georgia_pop_gather, aes(x=Year, y=Percent)) +
 ## replace the existing scale.
 ```
 
-![](TidyTuesday2_files/figure-html/01 plot-1.png)<!-- -->
+![](https://github.com/simonl11/tidy_tuesday/blob/master/TidyTuesday2_files/figure-html/01%20plot-1.png)<!-- -->
 
 Comparison to what we were trying to achieve! 
 
@@ -247,7 +247,7 @@ ggplot(data =conjugal_gather,
 ## See help("Deprecated")
 ```
 
-![](TidyTuesday2_files/figure-html/02 plot-1.png)<!-- -->
+![](https://github.com/simonl11/tidy_tuesday/blob/master/TidyTuesday2_files/figure-html/02%20plot-1.png)<!-- -->
 
 Comparison to what we were trying to achieve! 
 
@@ -337,7 +337,7 @@ ggplot(data =occupation,
   theme(strip.placement="outside") # reposition facets to outside of population labels
 ```
 
-![](TidyTuesday2_files/figure-html/03 plot-1.png)<!-- -->
+![](https://github.com/simonl11/tidy_tuesday/blob/master/TidyTuesday2_files/figure-html/03%20plot-1.png)<!-- -->
 
 Comparison to what we were trying to achieve! 
 
@@ -434,7 +434,7 @@ ggplot(data=freed,
         axis.text.y = element_blank(), axis.title.y = element_blank(), axis.title.x= element_blank(), axis.text.x.top=element_text(vjust=1, size=14, face="bold")) # turn off axis y and axis y and x labels
 ```
 
-![](TidyTuesday2_files/figure-html/04 plot-1.png)<!-- -->
+![](https://github.com/simonl11/tidy_tuesday/blob/master/TidyTuesday2_files/figure-html/04%20plot-1.png)<!-- -->
 
 Comparison to what we were trying to achieve! 
 
@@ -540,7 +540,7 @@ ggplot(data =income_gather,
 ## Warning: Removed 1 rows containing missing values (position_stack).
 ```
 
-![](TidyTuesday2_files/figure-html/05 plot-1.png)<!-- -->
+![](https://github.com/simonl11/tidy_tuesday/blob/master/TidyTuesday2_files/figure-html/05%20plot-1.png)<!-- -->
 
 Comparison to what we were trying to achieve! 
 
