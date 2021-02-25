@@ -544,7 +544,7 @@ ggplot(data =income_gather,
 
 Comparison to what we were trying to achieve! 
 
-![Plot 5](https://github.com/simonl11/tidy_tuesday/blob/master/TidyTuesday2_files/figure-html/01plot.jpg)
+![Plot 5](https://github.com/simonl11/tidy_tuesday/blob/master/TidyTuesday2_files/figure-html/05plot.jpg)
 
 
 
